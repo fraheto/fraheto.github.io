@@ -2,4 +2,4 @@
 title: "Vamos a darle caña al index"
 ---
 
-lo quité
+lo modifiqué en el portatil
