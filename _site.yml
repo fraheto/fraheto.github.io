@@ -1,13 +1,17 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Bioquímica para dummies"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Teoría"
+      href: teoria.html
+    - text: "Prácticas"
+      href: practicas.html
+    - text: "Seminarios"
+      href: seminarios.html
 output:
   html_document:
-    theme: united
-    highlight: textmate
+    theme: cerulean
+    highlight: tango
