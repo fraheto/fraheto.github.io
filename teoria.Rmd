@@ -3,3 +3,18 @@ title: "Vamos a darle caña a la teoría"
 ---
 
 Esto si que mola
+
+Table Header | Second Header
+------------- | -------------
+Table Cell | Cell 2
+Cell 3 | Cell 4 
+*** 
+
+1. ordered list
+2. item 2
+ + sub-item 1
+ + sub-item 2 
+ 
+equation: $A = \pi*r^{2}$ 
+equation block:
+$$E = mc^{2}$$
