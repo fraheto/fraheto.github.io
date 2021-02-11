@@ -2,7 +2,16 @@
 title: "Tema 1.- Introducción a la bioquímica y a la biofísica. Características de los seres vivos."
 ---
 
-## 1.- ¿Qué es la Bioquímica? 
-La bioquímica puede definirse como la ciencia de la base química de la vida (del griego bios “vida”). La célula es la unidad estructural de los sistemas vivos. De este modo,también es factible describir a la bioquímica como la ciencia de los constituyentes químicos de las células vivas, y de las reacciones y los procesos que experimentan. Mediante esta definición, la bioquímica abarca grandes áreas de la biología celular, la biología molecular y la genética molecular.
+## 1.- ¿Qué es la Bioquímica?
+Podemos encontrar muchísimas definiciones del término **Bioquímica**, pero lo más acertado es buscarlo en textos especializados en esta disciplina. Así, podemos encontrar:
+
+* La bioquímica puede definirse como *la ciencia de la base química de la vida (del griego bios “vida”)*. La célula es la unidad estructural de los sistemas vivos. De este modo, también es factible describir a la bioquímica como la *ciencia de los constituyentes químicos de las células vivas, y de las reacciones y los procesos que experimentan*. Mediante esta definición, la bioquímica abarca grandes áreas de la **biología celular**, la **biología molecular** y la **genética molecular**. 
+  * **HARPER. BIOQUIMICA ILUSTRADA ISBN: 978-607-15-0914-7**  
+  
+* dsgsdfb 
 
 ## 2.- ¿Qué es la BM? 
+~~~
+Creando códigos de bloque.
+Puedes añadir tantas líneas y párrafos como quieras.  
+~~~
